@@ -30,6 +30,10 @@ To get started with the code, please follow the instructions below.
 
 Available on : https://doi.org/10.6084/m9.figshare.25917340.v1
 
+### Models
+
+Available on : https://drive.google.com/drive/folders/1RI_BU9Ew6b_HtK1wljF4Vt_Ug6dW2Jem?usp=drive_link
+
 ### Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
 
